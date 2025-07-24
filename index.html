@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Web3 Connect Wallet</title>
+    <script src="https://cdn.jsdelivr.net/npm/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <button id="connectBtn" onclick="connect()">Connect Wallet</button>
+    <button onclick="execute()">Execute</button>
+    <script>
+      if (typeof connect !== "function" || typeof execute !== "function") {
+        console.error("Functions 'connect' and/or 'execute' are not defined in index.js.");
+      }
+    </script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
