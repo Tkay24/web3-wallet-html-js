@@ -48,12 +48,12 @@ Integration with [Moralis](https://moralis.io/) for easy Web3 backend.
 
 ### `nextjs-web3modal-version/`
 
-🛠️ **Status:** Under development  
+
 Wallet connection using [Web3Modal](https://web3modal.com/).
 
 ### `nextjs-usedapp-version/`
 
-🛠️ **Status:** Under development  
+
 Built with [useDapp](https://usedapp.io/).
 
 ---
