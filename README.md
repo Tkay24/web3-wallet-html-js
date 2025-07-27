@@ -30,16 +30,15 @@ Basic MetaMask connection using **HTML, JS, and Ethers.js**.
 
 ---
 
-## 🏗️ In Progress
 
 ### `nextjs-ethers-version/`
 
-🛠️ **Status:** Under development  
+
 React + Next.js with Ethers.js using functional components and hooks.
 
-### `nextjs-web3-react-version/`
+### `nextjs-react-moralis-version/'
 
-🛠️ **Status:** Under development  
+
 Wallet connection via [web3-react](https://github.com/Uniswap/web3-react).
 
 ### `nextjs-react-moralis-version/`
